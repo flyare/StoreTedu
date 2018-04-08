@@ -1,0 +1,14 @@
+StoreTedu/.vs/
+StoreTedu/packages/
+StoreTedu/StoreTedu.Common/bin/
+StoreTedu/StoreTedu.Common/obj/
+StoreTedu/StoreTedu.Data/bin/
+StoreTedu/StoreTedu.Data/obj/
+StoreTedu/StoreTedu.Model/bin/
+StoreTedu/StoreTedu.Model/obj/
+StoreTedu/StoreTedu.Service/bin/
+StoreTedu/StoreTedu.Service/obj/
+StoreTedu/StoreTedu.UnitTest/bin/
+StoreTedu/StoreTedu.UnitTest/obj/
+StoreTedu/StoreTedu.Web/bin/
+StoreTedu/StoreTedu.Web/obj/
